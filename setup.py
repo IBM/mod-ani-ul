@@ -9,7 +9,7 @@ install_requires = [
     "h5py==3.6.0",
     "matplotlib==3.5.0",
     "pandas==1.3.5",
-    "protobuf==3.19.3",
+    "protobuf==5.29.6",
     "torch==1.12.1",
     "tensorboard==2.8.0",
     "tqdm==4.62.3",
